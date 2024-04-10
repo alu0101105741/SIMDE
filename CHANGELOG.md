@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.5.0](https://github.com/SIMDE-ULL/SIMDE/compare/v2.4.0...v2.5.0) (2024-04-10)
+
+
+### Features
+
+* **parser:** make line count header optional ([#143](https://github.com/SIMDE-ULL/SIMDE/issues/143)) ([8e072fa](https://github.com/SIMDE-ULL/SIMDE/commit/8e072fa6439f3add0e431c7112aa113e367cfcf9))
+
+
+### Bug Fixes
+
+* accept CRLF newlines ([#151](https://github.com/SIMDE-ULL/SIMDE/issues/151)) ([aafda4e](https://github.com/SIMDE-ULL/SIMDE/commit/aafda4e704acf27356c96f647a60986b25f85880))
+* add VITE_CONFIG_BASE env var to set BASE in vite.config.ts ([#138](https://github.com/SIMDE-ULL/SIMDE/issues/138)) ([b4e1a47](https://github.com/SIMDE-ULL/SIMDE/commit/b4e1a47bcf62dc735b5146a2006a77667c376539))
+* **interface:** show load code errors ([#145](https://github.com/SIMDE-ULL/SIMDE/issues/145)) ([b9010f8](https://github.com/SIMDE-ULL/SIMDE/commit/b9010f81d527b0fb1c5ad04e70ce8a92c6ffdea2))
+
 ## [2.4.0](https://github.com/SIMDE-ULL/SIMDE/compare/v2.3.0...v2.4.0) (2024-03-31)
 
 
